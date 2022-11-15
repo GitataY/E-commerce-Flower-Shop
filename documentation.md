@@ -1,4 +1,4 @@
-## MAUA 
+## Library Management System
 ### Project Scope
 ### October 25, 2022
 
@@ -25,5 +25,9 @@ The new system must include the following:
  	● Customers responsive web-based application accessible. 
 ● User documentation manual. 
 ● Technical documentation
+
+### Affected parties 
+- Members
+- Librarian
 
 
